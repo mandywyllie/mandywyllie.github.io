@@ -16,7 +16,7 @@ hi my name is mandy and this is my website that I will put my stuff on
     - [.tex file](https://1drv.ms/u/c/60f83006e69da185/EQ6C7WvtNrVPmwR5y04A8B0BDe1Nmw-m2N5K9FN6PBwXvQ?e=jXtmd4)
       - You can upload this into Overleaf or any other preferred latex editor 
     - [Compiled PDF](https://1drv.ms/b/c/60f83006e69da185/EVbVnyngvudCuhC6WV1a8d4BrlTprKCfoxzRYHrtbGIFLQ?e=vJiufu)
-  - {Latex Workshop From Math Club Spring 2025](https://www.overleaf.com/read/gqfxsbrbzvmg#b134f8)
+  - [Latex Workshop From Math Club Spring 2025](https://www.overleaf.com/read/gqfxsbrbzvmg#b134f8)
     - You have to have an overleaf account to view this
     - make a copy of the project and play around with it
     - Start by compiling
