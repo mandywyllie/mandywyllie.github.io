@@ -1,6 +1,7 @@
 # mandywyllie.github.io
 
 hi my name is mandy and this is my website that I will put my stuff on
+
 [My calendar(updated frequently)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiYlozNkxCbTVMNjJkMDdzOWJTRW9FMkdlcmxUWUpBaGp1ZUxmQTVkVURCd0w0Q0JydHRPTWRNNGNzZ1JQRlZXNXlYMlVsU2RlMFNWbFBEc0Q0YXczRk01bWd0K0NaNVo1YVVyWW02RFZyVVdLTzdaT3NSbjRMblBCSmFTQmg5ZTh0a2FiMkluSUhBPT0iLCJzIjoiakgvbjdJeGIxelBjVEk4dUd6VXlidz09IiwiaSI6Inh3NjFnRVVGbHBjRTVKWUEifQ==)
 
 ## Resources From Previous Classes
